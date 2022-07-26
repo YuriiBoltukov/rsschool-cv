@@ -18,12 +18,12 @@
 
 ### My skills
 
-Skill      | Progress, %
------------|:-----------: 
-JavaScript |   30
-HTML       |   65
-CSS        |   50
-Git        |   40
+- JS/Typescript
+- Angular2+,
+- Gulp/Webpack
+- Git (GitHub, Bitbucket, GitLub)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriiBoltukov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
@@ -49,10 +49,13 @@ function bingo(ticket, win){
 
 ### My Projects
 
-1. [Portfolio]
-2. [Eco-sounds]
-3. [Movie-app]
-4. [tic-tac-toe]
+Project       | Technology                                   | Comment
+--------------|:---------------------------------------------|:--------------:
+[tic-tac-toe] | JavaScript (Vanilla JS), Canvas, HTML, CSS   |
+[Eco-sounds]  | JavaScript (Vanilla JS), HTML, CSS           |
+[Movie-app]   | JavaScript (Vanilla JS), Rest API, HTML, CSS | Please use VPN for the application to work correctly
+[Slider]      | JavaScript (Vanilla JS), HTML, CSS           |
+[Portfolio]   | JavaScript (Vanilla JS), HTML, CSS           |
 
 ---
 
@@ -74,4 +77,5 @@ Result of [Epam-quiz] is 41%
 [Eco-sounds]: https://rolling-scopes-school.github.io/yuriiboltukov-JSFEPRESCHOOL/js30-eco-sounds/
 [Movie-app]: https://rolling-scopes-school.github.io/yuriiboltukov-JSFEPRESCHOOL/movie-app/
 [tic-tac-toe]: https://tic-tac-toe89.netlify.app
+[Slider]: https://slider-test-21-07-22.netlify.app/
 [Epam-quiz]: https://www.qzzr.com/c/quiz/477824/quick-english-grammar-quiz-copy

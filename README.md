@@ -1,1 +1,1 @@
-# rsschool-cv
+[# rsschool-cv]: https://YuriiBoltukov.github.io/rsschool-cv/cv
